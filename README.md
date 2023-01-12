@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on evey things that related in web app developing
 - 📫 How to reach me by :
    protonMail : khoshfekr2001@protonmail.com
-   telegram ID : @khoshfekr2001
 
 <!---
 KhoshfekrMH/KhoshfekrMH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
