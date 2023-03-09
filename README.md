@@ -15,7 +15,7 @@
 
 ### :man_technologist: About Me :
 
-- 🟢⚪🔴: I am a Full Stack Developer from Persia.
+- 🟢⚪🦁⚪🔴: I am a Full Stack Developer from Persia.
 
 - :telescope: I’m working on design and developing wordpress websites and contributing to frontend and backend for building web applications.
 
