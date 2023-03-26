@@ -15,8 +15,7 @@
 
 ### :man_technologist: About Me
 
-- 🟢⚪🦁⚪🔴 : I am a Full Stack Developer from Iran. ( Just search Iranian Lion flag, It is true flag of Iran 😉) :
-https://commons.wikimedia.org/wiki/File:Tricolour_Flag_of_Iran_%281886%29.svg
+- 🟢⚪🔴 : I am a Full Stack Developer from Iran.
 
 - :telescope: I’m working on design and developing wordpress websites and contributing to frontend and backend for building web applications.
 
