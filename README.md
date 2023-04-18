@@ -17,8 +17,6 @@
 
 - 🟢⚪🔴 : I am a Full Stack Developer from Iran.
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmUwYjJiZmI1ODZhYWUxNTkxYjA2MmQ0MjM0ZGRlNzI1OWU4MjMzYyZjdD1n/pY5T6SUFKpX5Uhw86x/giphy.gif" width="500"/>
-
 - :telescope: I’m working on design and developing wordpress websites and contributing to frontend and backend for building web applications.
 
 - :seedling: I’m currently learning react.JS + Web3
