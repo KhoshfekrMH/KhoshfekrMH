@@ -21,7 +21,7 @@
 
 - :seedling: I’m currently learning react.JS + Web3
 
-- :zap: I’m looking to collaborate on evey things that related in web app developing
+- :zap: I’m looking to collaborate on evey things that are related in web app developing
 
 - :mailbox: How to email me: khoshfekr2001@protonmail.com
 
