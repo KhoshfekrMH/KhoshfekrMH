@@ -13,8 +13,6 @@
 
 - :telescope: I’m working on design and developing wordpress websites and contributing to frontend and backend for building web applications.
 
-- :seedling: I’m currently learning react.JS + Web3
-
 - :zap: I’m looking to collaborate on evey things that are related in web app developing
 
 - :mailbox: My email: khoshfekr2001@protonmail.com
