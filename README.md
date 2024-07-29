@@ -1,6 +1,6 @@
  <div id="header" align="center">
   <h1>
-    Hello My Friend
+    Hello Friend ... !
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="welcoming text"/>
   </h1>
 </div>
@@ -9,11 +9,9 @@
 
 ### :man_technologist: About Me
 
-- 🟢⚪🔴 : I am a Full Stack Developer from Persia.
-
 - :telescope: I’m working on design and developing wordpress websites and contributing to frontend and backend for building web applications.
 
-- :zap: I’m looking to collaborate on evey things that are related in web app developing
+- :zap: I’m looking to collaborate on evey things that are related to with web app developing
 
 - :mailbox: My email: khoshfekr2001@protonmail.com
 - <div id="badges">
