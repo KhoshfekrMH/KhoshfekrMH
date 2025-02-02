@@ -1,37 +1,27 @@
- <div id="header" align="center">
-  <h1>
-    Hello Friend ... !
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="welcoming text"/>
-  </h1>
-</div>
+# Hi there! 👋  
 
+I'm **KhoshfekrMH**, a passionate **full-stack developer** with experience in both **modern JavaScript frameworks** and **traditional CMS platforms**. I enjoy working on **web development**, **mathematical computing**, and **signal processing projects**.  
+
+## 🔹 What I Do  
+- 🌐 **Full-Stack Web Development** – Building websites and apps using the **MERN stack** (MongoDB, Express.js, React, Node.js).  
+- 🖥️ **WordPress Development** – Creating custom WordPress websites for different use cases.  
+- 📊 **Mathematical & Signal Processing Projects** – Using **Jupyter Notebook** and Python to visualize **signal diagrams** and explore mathematical concepts.  
+
+## 📌 Projects & Interests  
+- 🚀 Developing **efficient and scalable** web applications.  
+- 🔢 Exploring **signal processing, plotting, and data visualization**.  
+- 🔐 Learning more about **network security and ethical hacking**.  
+
+## 📫 Get in Touch
+Feel free to check out my projects here or reach out for collaboration!
+- 📧 Khoshfekr2001@protonmail.com
 ---
 
-### :man_technologist: About Me
+This README is **simple, professional, and structured**, making it easy for visitors to understand your work. Let me know if you want any changes! 🚀
 
-- :telescope: I’m working on design and developing wordpress websites and contributing to frontend and backend for building web applications.
-
-- :zap: I’m looking to collaborate on evey things that are related to with web app developing
-
-- :mailbox: My email: khoshfekr2001@protonmail.com
-- <div id="badges">
-    <a href="https://t.me/MH322001">
-      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-    </a>
-  </div>
 ---
-
-### :hammer_and_wrench: Languages which I use in my projects:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-</div>
+![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=3&theme=catppuccin_mocha&bg=%231e1e2e&badge=%23181825&border=%236c7086&titleColor=%2394e2d5&line1=react%2Creact%2C1d85b1%3Bjavascript%2Cjavascript%2Cc6df12%3Bpython%2Cpython%2C13984d%3B&line2=jupyter%2Cjupyter%2Cf37726%3Blua%2Clua%2C1b2896%3Bwordpress%2Cwordpress%2C2ec1c0%3B&line3=mongodb%2Cmongodb%2C439934%3Bmysql%2Cmysql%2C00618a%3Bgit%2Cgit%2Cf34f29%3B)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhoshfekrMH&show_icons=true&theme=catppuccin_mocha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhoshfekrMH&show_icons=true&theme=catppuccin_mocha)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KhoshfekrMH&theme=catppuccin-mocha&mode=weekly)](https://git.io/streak-stats)
