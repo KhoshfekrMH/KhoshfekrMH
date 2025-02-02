@@ -1,6 +1,8 @@
 # Hi there! 👋  
 
-I'm **KhoshfekrMH**, a passionate **full-stack developer** with experience in both **modern JavaScript frameworks** and **traditional CMS platforms**. I enjoy working on **web development**, **mathematical computing**, and **signal processing projects**.  
+I'm **KhoshfekrMH**, a passionate **full-stack developer** with experience in both **modern JavaScript frameworks** and **traditional CMS platforms**. I enjoy working on **web development**, **mathematical computing**, and **signal processing projects**.
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=KhoshfekrMH&theme=catppuccin-mocha&mode=weekly)](https://git.io/streak-stats)
 
 ## 🔹 What I Do  
 - 🌐 **Full-Stack Web Development** – Building websites and apps using the **MERN stack** (MongoDB, Express.js, React, Node.js).  
@@ -21,4 +23,3 @@ Feel free to check out my projects here or reach out for collaboration!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhoshfekrMH&show_icons=true&theme=catppuccin_mocha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhoshfekrMH&show_icons=true&theme=catppuccin_mocha)
-[![GitHub Streak](https://streak-stats.demolab.com?user=KhoshfekrMH&theme=catppuccin-mocha&mode=weekly)](https://git.io/streak-stats)
