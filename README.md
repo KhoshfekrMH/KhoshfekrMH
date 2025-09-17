@@ -1,23 +1,31 @@
-# Hi there! 👋  
+# 🦇 Greetings, Wanderer of the Code Abyss  
 
-I'm **KhoshfekrMH**, a passionate **full-stack developer** with experience in both **modern JavaScript frameworks** and **traditional CMS platforms**. I enjoy working on **web development**, **mathematical computing**, and **signal processing projects**.
+I am **Pouya**, a dedicated **full-stack developer** and eternal student of technology.  
+Forged in both **modern front-end frameworks** and **low-level backend systems**, my craft spans from **web applications** to **mathematical computing** and the **shadows of cybersecurity**.  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KhoshfekrMH&theme=catppuccin-mocha&mode=weekly)](https://git.io/streak-stats)
-
-## 🔹 What I Do  
-- 🌐 **Full-Stack Web Development** – Building websites and apps using the **MERN stack** (MongoDB, Express.js, React, Node.js).  
-- 🖥️ **WordPress Development** – Creating custom WordPress websites for different use cases.  
-- 📊 **Mathematical & Signal Processing Projects** – Using **Jupyter Notebook** and Python to visualize **signal diagrams** and explore mathematical concepts.  
-
-## 📌 Projects & Interests  
-- 🚀 Developing **efficient and scalable** web applications.  
-- 🔢 Exploring **signal processing, plotting, and data visualization**.  
-- 🔐 Learning more about **network security and ethical hacking**.  
-
-## 📫 Get in Touch
-Feel free to check out my projects here or reach out for collaboration!
-- 📧 Khoshfekr2001@protonmail.com
+[![GitHub Streak](https://streak-stats.demolab.com?user=khoshfekrmh&theme=dracula&hide_border=true&mode=weekly)](https://git.io/streak-stats)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khoshfekrmh&show_icons=true&theme=dracula&hide_border=true)
 
 ---
-![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=3&theme=catppuccin_mocha&bg=%231e1e2e&badge=%23181825&border=%236c7086&titleColor=%2394e2d5&line1=react%2Creact%2C1d85b1%3Bjavascript%2Cjavascript%2Cc6df12%3Bpython%2Cpython%2C13984d%3B&line2=jupyter%2Cjupyter%2Cf37726%3Blua%2Clua%2C1b2896%3Bwordpress%2Cwordpress%2C2ec1c0%3B&line3=mongodb%2Cmongodb%2C439934%3Bmysql%2Cmysql%2C00618a%3Bgit%2Cgit%2Cf34f29%3B)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhoshfekrMH&show_icons=true&theme=catppuccin_mocha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## ⚔️ What I Forge  
+- 🌑 **Modern Web Applications** – Architecting projects with **React (frontend)**, **Go (backend)**, and **PostgreSQL (database)**.  
+- 📊 **Mathematical & Signal Processing** – Exploring data, **visualizing signals**, and modeling concepts with Python & Jupyter.  
+- 🕷️ **Cybersecurity & Networks** – Walking the path of **ethical hacking** and network defense.  
+
+---
+
+## 📌 Current Quests  
+- 🚀 Building **efficient, secure, and aesthetic** full-stack applications.  
+- 🌌 Mastering **Go** as a high-performance backend language.  
+- 🛡️ Preparing for **advanced network security and certifications**.  
+- 🔢 Expanding expertise in **signal systems and visualization techniques**.  
+
+---
+
+## 📫 Summon Me  
+- 📧 **Khoshfekr2001@protonmail.com**  
+
+---
+
+![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=3&theme=dracula&gap=5&width=600&bg=%23282A36&badge=%23343746&border=%23343746&titleColor=%23BD93F9&line1=React%2CReact%2C0D769A%3BGO%2CGO%2C05A1C7%3Bpostgresql%2Cpostgresql%2C326289%3BLUA%2CLUA%2C060679%3BPython%2CPython%2CEAD05C%3B&line2=Node.js%2CNode.js%2C538B4D%3Bexpress%2Cexpress%2CA6A9AF%3BGin%2CGin%2C378F9E%3BFiber%2CFiber%2C04A0C7%3BWordPress%2CWordPress%2C21759B%3BJupyter%2CJupyter%2CDF7129%3B&line3=git%2Cgit%2CD45D47%3Bvim%2Cvim%2C068E34%3Bneovim%2Cneovim%2C80B366%3Blinux%2Clinux%2C08080C%3BObsidian%2CObsidian%2C603BAC%3B)
