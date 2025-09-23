@@ -3,9 +3,6 @@
 I am **Pouya**, a dedicated **full-stack developer** and eternal student of technology.  
 Forged in both **modern front-end frameworks** and **low-level backend systems**, my craft spans from **web applications** to **mathematical computing** and the **shadows of cybersecurity**.  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=khoshfekrmh&theme=dracula&hide_border=true&mode=weekly)](https://git.io/streak-stats)  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khoshfekrmh&show_icons=true&theme=dracula&hide_border=true)
-
 ---
 
 ## ⚔️ What I Forge  
